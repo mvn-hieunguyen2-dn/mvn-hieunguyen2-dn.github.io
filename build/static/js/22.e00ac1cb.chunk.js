@@ -1,0 +1,2 @@
+(this.webpackJsonpfruit_managenment_fe=this.webpackJsonpfruit_managenment_fe||[]).push([[22],{313:function(e,n,t){"use strict";t.r(n);t(5);var a=t(13);n.default=function(){return Object(a.jsx)("div",{children:"404 Page"})}}}]);
+//# sourceMappingURL=22.e00ac1cb.chunk.js.map
